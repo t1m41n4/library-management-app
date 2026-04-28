@@ -11,7 +11,7 @@ Flask-Caching==2.0.2
 Flask-Compress==1.13
 brotli==1.0.9
 Flask-CORS==4.0.0
-redis==4.5.1
+redis==4.5.4
 Flask-Redis==0.4.0
 sqlalchemy-utils==0.41.1
 mysqlclient==2.1.1
